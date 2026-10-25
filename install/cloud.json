@@ -5,8 +5,8 @@
   "login": "https://script.google.com/macros/s/AKfycbwrH8kaog1RgMDNWIANXL1_kdue7TLO6MVXZD8YBqG0mjyqG5UstcgyBpHv0xUrpqq-/exec",
   "google_client_id": "596892313764-4q4blifv20qk97bc7t8jg9cbknhkj6k5.apps.googleusercontent.com",
   "android_download": "https://github.com/wishmasterya-svg/wishmasterya-svg.github.io/releases/latest/download/MITCH-CRM-Test.apk",
-  "windows_sha256": "01213683b4edef602b29c6ad7a0ce2e00cb0109d6f509fed96918ec463fc494c",
-  "windows_bytes": 171762967,
-  "android_sha256": "e8b5e86d508f515fc66c5142dc4a418f92ee4198fee90c063e61b650ba955d3e",
-  "android_bytes": 173027
+  "windows_sha256": "f49726ed2778348efa8272077858470283e839b1781d5ebbf96b2a85803eac82",
+  "windows_bytes": 171765376,
+  "android_sha256": "a459e23a11b6ddb1d77fcf43a395fa766c91232b035df948434a54cc1af4f2f4",
+  "android_bytes": 177123
 }
