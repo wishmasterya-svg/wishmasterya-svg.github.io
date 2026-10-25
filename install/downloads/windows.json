@@ -35,9 +35,14 @@
       "sha256": "ec778314cc090245a88c2aeaceb005ec4381b2843c562cf41027a6e12493930b"
     },
     {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.07.bin",
-      "bytes": 16777216,
-      "sha256": "ae91a956c19b0ab514b5ab0b9a271e82d7cf78fa52776cdfd97b7671f16e8777"
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.07a.bin",
+      "bytes": 8388608,
+      "sha256": "9ed70aa11ac6efa01d0868c0e2ea79e46e21f60a96f1b09f0bf3cf6c71953904"
+    },
+    {
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.07b.bin",
+      "bytes": 8388608,
+      "sha256": "de84234cf528cca6ae6220369fdf004b65aa6fada918a1152f0c2e68ff66ea78"
     },
     {
       "url": "downloads/windows-0.1.16-ed31ec9bff16.08.bin",
@@ -50,9 +55,14 @@
       "sha256": "a63815f35da475e688916dcbfe155f55ae01e05e0ee80137c86d563d710fc837"
     },
     {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.10.bin",
-      "bytes": 16777216,
-      "sha256": "b49e5122ec4c70e1b3a4fa07984ebe958b6ab38fd53155f88ff0dd482154b857"
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.10a.bin",
+      "bytes": 8388608,
+      "sha256": "43ef44e5935ace2a42aafc680a38c77263444b0faee78bc311c161e37387c546"
+    },
+    {
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.10b.bin",
+      "bytes": 8388608,
+      "sha256": "18cae51e5246f5260e64a3630ea9657b09488d41bb7e9299b332129f76005086"
     },
     {
       "url": "downloads/windows-0.1.16-ed31ec9bff16.11.bin",
