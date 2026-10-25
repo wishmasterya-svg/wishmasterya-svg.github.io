@@ -1,0 +1,12 @@
+{
+  "format": "mitch-cloud-v1",
+  "enabled": true,
+  "backend": "https://script.google.com/macros/s/AKfycbwrH8kaog1RgMDNWIANXL1_kdue7TLO6MVXZD8YBqG0mjyqG5UstcgyBpHv0xUrpqq-/exec",
+  "login": "https://script.google.com/macros/s/AKfycbwrH8kaog1RgMDNWIANXL1_kdue7TLO6MVXZD8YBqG0mjyqG5UstcgyBpHv0xUrpqq-/exec",
+  "google_client_id": "596892313764-4q4blifv20qk97bc7t8jg9cbknhkj6k5.apps.googleusercontent.com",
+  "android_download": "https://github.com/wishmasterya-svg/wishmasterya-svg.github.io/releases/download/v0.1.16/MITCH-CRM-Test.apk",
+  "windows_sha256": "ed31ec9bff16f31b1cf1dd81b6dc47c4d5acf5bcb4e5949b2626d027f8178af3",
+  "windows_bytes": 175855669,
+  "android_sha256": "d430799f67df5e79ed454086bdb664e5bb6a5d049439b0663d0280baea6adb30",
+  "android_bytes": 168931
+}
