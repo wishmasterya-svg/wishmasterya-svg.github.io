@@ -1,73 +1,183 @@
 {
   "name": "MITCH-CRM-Windows-Setup.exe",
-  "version": "0.1.16",
-  "bytes": 175855669,
-  "sha256": "ed31ec9bff16f31b1cf1dd81b6dc47c4d5acf5bcb4e5949b2626d027f8178af3",
+  "version": "0.1.17",
+  "bytes": 171762967,
+  "sha256": "01213683b4edef602b29c6ad7a0ce2e00cb0109d6f509fed96918ec463fc494c",
   "parts": [
     {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.01.bin",
-      "bytes": 16777216,
-      "sha256": "ba188a0edfee98e4b5689c5c9c4305d440e679e557b301a69543a3f72977c315"
-    },
-    {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.02.bin",
-      "bytes": 16777216,
-      "sha256": "8e5bc7581abe4a71eb989dbaa9cf968edbf598a76a9142735a107e349ea1ebae"
-    },
-    {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.03.bin",
-      "bytes": 16777216,
-      "sha256": "1e62664bc6c41d9b9eb00662cba43f399335fe454a52bf940266ee1b492ae91b"
-    },
-    {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.04.bin",
-      "bytes": 16777216,
-      "sha256": "8c126dc7ea2681c444b7f4ed639ad42f66c7ace2ea108dfe20dcd1d65e0ae492"
-    },
-    {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.05.bin",
-      "bytes": 16777216,
-      "sha256": "efba0d01b6f87f1d9a69cc9b8fbfbb73f55176e48bb21860c8492ec65e978394"
-    },
-    {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.06.bin",
-      "bytes": 16777216,
-      "sha256": "ec778314cc090245a88c2aeaceb005ec4381b2843c562cf41027a6e12493930b"
-    },
-    {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.07a.bin",
+      "url": "downloads/windows-0.1.17-01213683b4ed.01a.bin",
       "bytes": 8388608,
-      "sha256": "9ed70aa11ac6efa01d0868c0e2ea79e46e21f60a96f1b09f0bf3cf6c71953904"
+      "sha256": "3ebcbc556a05243f4faed9a3fc1f99e7c92d6e4b4abc516478948d4595453ead"
     },
     {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.07b.bin",
+      "url": "downloads/windows-0.1.17-01213683b4ed.01b.bin",
       "bytes": 8388608,
-      "sha256": "de84234cf528cca6ae6220369fdf004b65aa6fada918a1152f0c2e68ff66ea78"
+      "sha256": "c9a7056b970dfe7cb2b7621698eeca639ce4824162ed057eb454653b87d90734"
     },
     {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.08.bin",
-      "bytes": 16777216,
-      "sha256": "72a72de5e85ef37d59b6a5f7ad53e3811c140d3a89ceee21fc644745d36c2aa4"
-    },
-    {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.09.bin",
-      "bytes": 16777216,
-      "sha256": "a63815f35da475e688916dcbfe155f55ae01e05e0ee80137c86d563d710fc837"
-    },
-    {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.10a.bin",
+      "url": "downloads/windows-0.1.17-01213683b4ed.02a.bin",
       "bytes": 8388608,
-      "sha256": "43ef44e5935ace2a42aafc680a38c77263444b0faee78bc311c161e37387c546"
+      "sha256": "711b1ea662d0ef63d1909873961787fe30be75b2131638b398427324cc7bc16f"
     },
     {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.10b.bin",
+      "url": "downloads/windows-0.1.17-01213683b4ed.02b.bin",
       "bytes": 8388608,
-      "sha256": "18cae51e5246f5260e64a3630ea9657b09488d41bb7e9299b332129f76005086"
+      "sha256": "d30a0dca4f3e739859a3953928182d5f35aad73b9bfaa79c61537a79ddb1467a"
     },
     {
-      "url": "downloads/windows-0.1.16-ed31ec9bff16.11.bin",
-      "bytes": 8083509,
-      "sha256": "bdf57c6865310cc7652572db7ac2aa4c330f8713f52c8a75a3b72527240d7e40"
+      "url": "downloads/windows-0.1.17-01213683b4ed.03a.bin",
+      "bytes": 8388608,
+      "sha256": "55a05aeb8ce024e3213ad3efa0275f094e228e58c9c5e180bfbdd420c3886609"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.03b.bin",
+      "bytes": 8388608,
+      "sha256": "83d0bc09946243180eefae2bebc161c2d1742dc72f30cfbee77926c510aeca58"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.04a1.bin",
+      "bytes": 4194304,
+      "sha256": "9517a04abd46d52bab3e610a56991cb07b9c2d15d9ed7226876fd5948b2ef58d"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.04a2.bin",
+      "bytes": 4194304,
+      "sha256": "13f35eeac45f7624caa81a720eaca5f7917af8a06629235ba771b4a6e02b6511"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.04b1.bin",
+      "bytes": 4194304,
+      "sha256": "f8a8555f71315f9e55a927f4b6a9d4195cf54758d17ca89427552c1b7cee6dc1"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.04b2.bin",
+      "bytes": 4194304,
+      "sha256": "cc563a98bcb05b5daffeae6670b7a6c7025b8001b9f43533d68086157b627906"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.05a1.bin",
+      "bytes": 4194304,
+      "sha256": "9b2c974000dbaa57770fb7c662b53295c8ef1e0ee1c558b5c8340b5c64766d0b"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.05a2.bin",
+      "bytes": 4194304,
+      "sha256": "816f76efb7ffa27220b7098c48c8cce5e39caeae5f6a68f90692e434c29056d4"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.05b1.bin",
+      "bytes": 4194304,
+      "sha256": "0e7c497e3a7d061f8dd2eb95d62df15efaa6be6d5b94d84daea0b2cea7398c22"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.05b2.bin",
+      "bytes": 4194304,
+      "sha256": "4617a0be7fb0f1e1a885b6deab68a1025c881c3092f3ada1a40f693d443f9f09"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.06a1.bin",
+      "bytes": 4194304,
+      "sha256": "ca0e72bc4b2f567c1bcf98a193cc92b14d60ae190a95c7d0c1c0c1eb02aafdd8"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.06a2.bin",
+      "bytes": 4194304,
+      "sha256": "07ecad23e2e52fdaa8f7c77756ab6c86c60e52ee228b9db2e407ecb426ef527c"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.06b1.bin",
+      "bytes": 4194304,
+      "sha256": "619395be45fdcce48277356bd734b3c653e30952babfc7598b365746b1775ff2"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.06b2.bin",
+      "bytes": 4194304,
+      "sha256": "90e173851081f436742e9973d9175f3a5fbb3218698e5b7dd777b01869a7179b"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.07a1.bin",
+      "bytes": 4194304,
+      "sha256": "f842b4cf1bb140e252786fc04ef8047267b80d8500e058b5f4388cc9dba81463"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.07a2.bin",
+      "bytes": 4194304,
+      "sha256": "632a0ee18cf798bf422928751c61ca64f43780fb633cab6f20f626e5146e6e11"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.07b1.bin",
+      "bytes": 4194304,
+      "sha256": "183553c759c3a5e3486ba891ce5eb59b6f7d80107fbbe003fa166b612fb65085"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.07b2.bin",
+      "bytes": 4194304,
+      "sha256": "da5f883f324e63e5fd3b62e99b3bf47b4d65a6d5a30ee2a38dfcb426216142ea"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.08a1.bin",
+      "bytes": 4194304,
+      "sha256": "4841f9edcdfe9d71177d2d66e34646f1ac361892bdcaa77b62e1db8775ed85eb"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.08a2.bin",
+      "bytes": 4194304,
+      "sha256": "f390b85ec220cd52c243a364a6a37fce7e0b25728ec77ffd4ff121aed7c61127"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.08b1.bin",
+      "bytes": 4194304,
+      "sha256": "6e7b3c3b95d9d96fabf8691491e56fa4979010de9c7ee91ee16c740cf96b3d24"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.08b2.bin",
+      "bytes": 4194304,
+      "sha256": "d33d33ee7710e2e6987558eb1b03d4ab5d2d3e53169b2eaebc9a22579799b12a"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.09a1.bin",
+      "bytes": 4194304,
+      "sha256": "22aa8b1440bb5c7feaf45e41aa6aa8d43c9516e8fa3218da7eca33af8b0feb4d"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.09a2.bin",
+      "bytes": 4194304,
+      "sha256": "80880812995bf987caa7f7b1a6a26c738babed282494b60c25a9324ab7a033df"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.09b1.bin",
+      "bytes": 4194304,
+      "sha256": "bd97ff281bda48cf94252100b7da77f1bf0c169e13d3dd7f9d1412e42c48f0dc"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.09b2.bin",
+      "bytes": 4194304,
+      "sha256": "ce867286b91f902c139c79cec82aedf8e5d3782dc8082ffb6e20aaf0c52a0328"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.10a1.bin",
+      "bytes": 4194304,
+      "sha256": "80a49aaf33b970d38257407521c8b08f293dbebbd006a100ef352fc638d1b6c0"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.10a2.bin",
+      "bytes": 4194304,
+      "sha256": "d509f20dec8ff5c9a4a476f6fd20b11482b6d683b8153ab1e35264ead1563cb5"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.10b1.bin",
+      "bytes": 4194304,
+      "sha256": "f747fa2030cf5891748a506988f9f8f94e7af2fc375970aa6d5ab68b75d61566"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.10b2.bin",
+      "bytes": 4194304,
+      "sha256": "a6e2d2132bf2dc7279066a0672553ace12d26235d9c50af642ead6b31aba04d9"
+    },
+    {
+      "url": "downloads/windows-0.1.17-01213683b4ed.11.bin",
+      "bytes": 3990807,
+      "sha256": "5ec22d80a6e639bca3137dff0d449fd775db3c5337525f972b292981374930ff"
     }
   ]
 }

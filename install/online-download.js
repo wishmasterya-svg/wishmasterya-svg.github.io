@@ -7,7 +7,7 @@
   button.disabled=true;progress.hidden=false;progress.value=0;ready.hidden=true;status.textContent='Загружаем установщик… 0%';
   try{
    const response=await fetch('downloads/windows.json',{cache:'no-cache'});if(!response.ok)throw Error('manifest HTTP '+response.status);const manifest=await response.json();
-   if(manifest.name!=='MITCH-CRM-Windows-Setup.exe'||!Array.isArray(manifest.parts)||manifest.parts.length<1||manifest.parts.length>32||manifest.bytes>250000000)throw Error('manifest');
+   if(manifest.name!=='MITCH-CRM-Windows-Setup.exe'||!Array.isArray(manifest.parts)||manifest.parts.length<1||manifest.parts.length>64||manifest.bytes>250000000)throw Error('manifest');
    if(version!==manifest.sha256){cache.clear();version=manifest.sha256;}const parts=[];let loaded=0;
    const report=extra=>{progress.value=Math.min(100,Math.round((loaded+extra)/manifest.bytes*100));status.textContent='Загружаем установщик… '+progress.value+'%';};
    for(const part of manifest.parts){
