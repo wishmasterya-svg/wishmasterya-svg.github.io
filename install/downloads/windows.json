@@ -1,0 +1,63 @@
+{
+  "name": "MITCH-CRM-Windows-Setup.exe",
+  "version": "0.1.16",
+  "bytes": 175855669,
+  "sha256": "ed31ec9bff16f31b1cf1dd81b6dc47c4d5acf5bcb4e5949b2626d027f8178af3",
+  "parts": [
+    {
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.01.bin",
+      "bytes": 16777216,
+      "sha256": "ba188a0edfee98e4b5689c5c9c4305d440e679e557b301a69543a3f72977c315"
+    },
+    {
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.02.bin",
+      "bytes": 16777216,
+      "sha256": "8e5bc7581abe4a71eb989dbaa9cf968edbf598a76a9142735a107e349ea1ebae"
+    },
+    {
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.03.bin",
+      "bytes": 16777216,
+      "sha256": "1e62664bc6c41d9b9eb00662cba43f399335fe454a52bf940266ee1b492ae91b"
+    },
+    {
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.04.bin",
+      "bytes": 16777216,
+      "sha256": "8c126dc7ea2681c444b7f4ed639ad42f66c7ace2ea108dfe20dcd1d65e0ae492"
+    },
+    {
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.05.bin",
+      "bytes": 16777216,
+      "sha256": "efba0d01b6f87f1d9a69cc9b8fbfbb73f55176e48bb21860c8492ec65e978394"
+    },
+    {
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.06.bin",
+      "bytes": 16777216,
+      "sha256": "ec778314cc090245a88c2aeaceb005ec4381b2843c562cf41027a6e12493930b"
+    },
+    {
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.07.bin",
+      "bytes": 16777216,
+      "sha256": "ae91a956c19b0ab514b5ab0b9a271e82d7cf78fa52776cdfd97b7671f16e8777"
+    },
+    {
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.08.bin",
+      "bytes": 16777216,
+      "sha256": "72a72de5e85ef37d59b6a5f7ad53e3811c140d3a89ceee21fc644745d36c2aa4"
+    },
+    {
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.09.bin",
+      "bytes": 16777216,
+      "sha256": "a63815f35da475e688916dcbfe155f55ae01e05e0ee80137c86d563d710fc837"
+    },
+    {
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.10.bin",
+      "bytes": 16777216,
+      "sha256": "b49e5122ec4c70e1b3a4fa07984ebe958b6ab38fd53155f88ff0dd482154b857"
+    },
+    {
+      "url": "downloads/windows-0.1.16-ed31ec9bff16.11.bin",
+      "bytes": 8083509,
+      "sha256": "bdf57c6865310cc7652572db7ac2aa4c330f8713f52c8a75a3b72527240d7e40"
+    }
+  ]
+}
