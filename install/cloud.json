@@ -4,9 +4,9 @@
   "backend": "https://script.google.com/macros/s/AKfycbwrH8kaog1RgMDNWIANXL1_kdue7TLO6MVXZD8YBqG0mjyqG5UstcgyBpHv0xUrpqq-/exec",
   "login": "https://script.google.com/macros/s/AKfycbwrH8kaog1RgMDNWIANXL1_kdue7TLO6MVXZD8YBqG0mjyqG5UstcgyBpHv0xUrpqq-/exec",
   "google_client_id": "596892313764-4q4blifv20qk97bc7t8jg9cbknhkj6k5.apps.googleusercontent.com",
-  "android_download": "https://github.com/wishmasterya-svg/wishmasterya-svg.github.io/releases/download/v0.1.23/MITCH-CRM.apk",
-  "windows_sha256": "e23a974c88d528160bdfb46651bd55d21cf331d9d59bce05c2e93c82941f94f8",
-  "windows_bytes": 171777041,
-  "android_sha256": "b10826d83987fcf28dd6f357991eae092611eaccfd6459c545218c3424c11292",
-  "android_bytes": 185314
+  "android_download": "https://github.com/wishmasterya-svg/wishmasterya-svg.github.io/releases/download/v0.1.24/MITCH-CRM.apk",
+  "windows_sha256": "d1aa378607605f7dba9690694db3817c65f017c43a261d9f87c9363bd53bf080",
+  "windows_bytes": 171779909,
+  "android_sha256": "d4fa24e30adccacc76f273728d07e6b3320cfc59b588bfa9dbee68e4876317f4",
+  "android_bytes": 189412
 }
