@@ -4,12 +4,12 @@
   "backend": "https://script.google.com/macros/s/AKfycbwrH8kaog1RgMDNWIANXL1_kdue7TLO6MVXZD8YBqG0mjyqG5UstcgyBpHv0xUrpqq-/exec",
   "login": "https://script.google.com/macros/s/AKfycbwrH8kaog1RgMDNWIANXL1_kdue7TLO6MVXZD8YBqG0mjyqG5UstcgyBpHv0xUrpqq-/exec",
   "google_client_id": "596892313764-4q4blifv20qk97bc7t8jg9cbknhkj6k5.apps.googleusercontent.com",
-  "android_download": "https://github.com/wishmasterya-svg/wishmasterya-svg.github.io/releases/download/v0.1.53/MITCH-CRM.apk",
-  "windows_sha256": "078a758cc310e4e4df6dc37f279910b6b63d81a7ca7c796c14867110870a4e6c",
-  "windows_bytes": 177253217,
-  "android_sha256": "6ee24be263eee5d1b6212fd0db39229dfcecae84290a6aa50d3586194e9e407c",
+  "android_download": "https://github.com/wishmasterya-svg/wishmasterya-svg.github.io/releases/download/v0.1.54/MITCH-CRM.apk",
+  "windows_sha256": "5a205226d108d071e74b66a985ab715988cef6408a76b65178183444beceda7a",
+  "windows_bytes": 177252400,
+  "android_sha256": "2c0ba8c29d15d18b914198cb37c193544648d8dcffee216c7bf965135bf08075",
   "android_bytes": 1573858,
-  "windows_download": "https://github.com/wishmasterya-svg/wishmasterya-svg.github.io/releases/download/v0.1.53/MITCH-CRM-Windows-Setup.exe",
+  "windows_download": "https://github.com/wishmasterya-svg/wishmasterya-svg.github.io/releases/download/v0.1.54/MITCH-CRM-Windows-Setup.exe",
   "version": "0.1.47",
-  "release_version": "0.1.53"
+  "release_version": "0.1.54"
 }
