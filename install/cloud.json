@@ -7,9 +7,10 @@
   "android_download": "https://github.com/wishmasterya-svg/wishmasterya-svg.github.io/releases/latest/download/MITCH-CRM.apk",
   "windows_sha256": "8d450013296724611e926c1e9c644949964a34d216fad39efa89fb81ba947d9f",
   "windows_bytes": 177287267,
-  "android_sha256": "07818964bd03189f7c1c707099853f6afcb1f3dcfaa85f973992a94e26a23c54",
-  "android_bytes": 1598434,
+  "android_sha256": "b3439b3d7ddced4db9bcc42366baa2f2b08f1efdf932a84b4a1bd6e1e94c4d07",
+  "android_bytes": 1602593,
   "windows_download": "https://github.com/wishmasterya-svg/wishmasterya-svg.github.io/releases/download/v0.1.65/MITCH-CRM-Windows-Setup.exe",
   "version": "0.1.47",
-  "release_version": "0.1.68"
+  "release_version": "0.1.70",
+  "android_version": "0.1.70"
 }
